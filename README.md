@@ -7,7 +7,7 @@ Note:
 - I'm still adding a lot of other channels, as the only channels that you type that work are 161, 301, 302, 303, 304, 305
 
 Dev notes:
-- I will make this into a JavaScript project that you will have to install, once I have access to JavaScript (currently don't have a laptop.
+- I will make this into a JavaScript project that you will have to install, once I have access to JavaScript (currently don't have a laptop)
 - About the above note, you will still be able to use the vbs version but I might not keep updating the vbs version once the JavaScript version comes out
 - it might take a while for me to add the other channels
 - please feel free to use my project for any commercial use, but please give me credit
